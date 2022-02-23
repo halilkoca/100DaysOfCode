@@ -8,9 +8,6 @@ Adreslerin arkasındaki kişiler daha sonra ya kendilerine oy vermeyi ya da oyla
 
 Oylama süresinin sonunda, kazananProposal() en fazla oyu alan teklifi döndürür.
 
-
-.. code-block:: solidity
-
     // SPDX-License-Identifier: GPL-3.0
     pragma solidity >=0.7.0 <0.9.0;
     /// @title Voting with delegation.
